@@ -2,8 +2,8 @@
 	"credit": "Created by Stridey",
 	"texture_size": [128, 64],
 	"textures": {
-		"0": "block/birch",
-		"particle": "block/birch"
+		"0": "block/boat/birch",
+		"particle": "block/boat/birch"
 	},
 	"elements": [
 		{
